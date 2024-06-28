@@ -6,6 +6,8 @@ import javafx.scene.control.TableView;
 import javafx.scene.control.TextField;
 import javafx.scene.control.cell.PropertyValueFactory;
 
+import java.util.ArrayList;
+
 public class Demotablecontroller
 {
     @javafx.fxml.FXML
@@ -30,6 +32,7 @@ public class Demotablecontroller
     private TableColumn deptTableColumn;
     @javafx.fxml.FXML
     private TextField idTextField;
+    ArrayList<Student>student=new ArrayList<Student>();
 
     @javafx.fxml.FXML
     public void initialize() {
@@ -61,7 +64,7 @@ public class Demotablecontroller
 
     @javafx.fxml.FXML
     public void sorttableButton(ActionEvent actionEvent) {
-        TableView.get
+        studTableView.get
 
 
 
