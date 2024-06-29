@@ -7,6 +7,8 @@
     <list default="true" id="e1d2c7ac-6893-48c2-ac98-5d41ab23c61f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/anindya/tabledemo/Demotablecontroller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/anindya/tabledemo/Demotablecontroller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/anindya/tabledemo/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/anindya/tabledemo/demotable.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/anindya/tabledemo/demotable.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
